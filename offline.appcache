@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1605750962
+#1605992565
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -78,8 +78,6 @@ images/tester.png
 images/start_somvespas-sheet0.png
 images/morcego-sheet0.png
 images/escorpiao-sheet0.png
-images/escorpiao-sheet1.png
-images/escorpiao-sheet2.png
 images/btnreiniciar-sheet0.png
 images/fundoloadin.png
 images/loadin_bar.png
@@ -192,6 +190,9 @@ images/sensortremorstop-sheet0.png
 images/sensorsomcolisao-sheet0.png
 images/fim-sheet0.png
 images/sensorfim-sheet0.png
+images/sensorvagalumedeliga-sheet0.png
+images/sensormorteborboleta-sheet0.png
+images/ativamorte-sheet0.png
 media/latido.m4a
 media/latido.ogg
 media/vespas.m4a
@@ -229,6 +230,10 @@ media/destruirpedra.m4a
 media/destruirpedra.ogg
 media/beep.m4a
 media/beep.ogg
+media/bounce.m4a
+media/bounce.ogg
+media/jump.m4a
+media/jump.ogg
 media/y2mate.com%20-%20grotesque%20fantasia%20-%20myuu%20(online-audio-converter.com).ogg
 media/y2mate.com%20-%20forest%20at%20night%20sounds%20_%20owls%20&%20crickets%20_%20rustling%20leaves%20and%20wind%20(online-audio-converter.com).ogg
 media/dark%20creatures%20-%20myuu%20(online-audio-converter.com).ogg
